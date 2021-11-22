@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5jadFSnHIZi_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Actividades Articulate</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Actividades_Articulate_ORG">
+    <organization identifier="Actividades_Articulate_ORG">
+      <title>Actividades Articulate</title>
+      <item identifier="Actividades_Articulate_SCO" isvisible="true" identifierref="__5jadFSnHIZi_course_id_RES">
+        <title>Actividades Articulate</title>
+        <adlcp:masteryscore>33</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5jadFSnHIZi_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5wSa0h7M6Dp.html" />
+      <file href="mobile/5wSa0h7M6Dp6NeKNMcU2TL{Width=398.2222, Height=224}Light_80_DX796_DY796_CX398_CY224.jpg" />
+      <file href="story_content/5w2zW1eVcrX_44100_48_0.mp3" />
+      <file href="mobile/69gEp7ycW1o_80_DX336_DY336_CX135_CY264.png" />
+      <file href="mobile/5mxmL3WZtlg_80_DX282_DY282_CX125_CY141.gif" />
+      <file href="mobile/5zNV8fgLvNO_80_DX298_DY298_CX207_CY234.gif" />
+      <file href="mobile/6pvStJqgN3E_80_DX280_DY280_CX88_CY140.gif" />
+      <file href="mobile/6YNk1UhGHTK_80_DX282_DY282_CX147_CY221.gif" />
+      <file href="mobile/6dFnRK99ona_80_DX320_DY320_CX251_CY251.png" />
+      <file href="mobile/5ZTdQ5fiQ1Z_80_DX320_DY320_CX251_CY251.png" />
+      <file href="mobile/5czfQnv6lJo_80_DX320_DY320_CX251_CY251.png" />
+      <file href="mobile/6FRlszxfhil_80_DX352_DY352_CX277_CY277.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_657FJVEu4BN.png" />
+      <file href="mobile/txt__default_67GS2BLXHdJ.png" />
+      <file href="mobile/txt__default_6B0hxsMjXsZ.png" />
+      <file href="mobile/txt__default_6YUmy6kWoWh.png" />
+      <file href="mobile/txt__default_6UioxsjpsNK.png" />
+      <file href="mobile/txt__default_6FGLEmXcmDA.png" />
+      <file href="mobile/Shape6qVePVBV3v3.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bTJbDlwtfO.js" />
+      <file href="html5/data/js/5k8osUkPriY.js" />
+      <file href="html5/data/js/5kMzQiL9b1l.js" />
+      <file href="html5/data/js/5x3z631YU2J.js" />
+      <file href="html5/data/js/60xt1Wf983x.js" />
+      <file href="html5/data/js/6k3FJrP7OW4.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
